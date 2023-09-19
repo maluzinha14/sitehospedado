@@ -1,0 +1,53 @@
+h1 {
+    text-align:center;
+    background-color: rgb(160, 17, 17);
+}
+h2 {
+    text-align:center;
+    font-style: italic;
+    background-color: rgb(177, 134, 226);
+}
+h3{
+    text-align:center;
+    background-color: rgb(196, 64, 64);
+}
+
+header{
+    color: rgb(138, 179, 216);
+    font-size: larger;
+}
+p {
+    text-align: center;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+}
+.imagem1 {
+    width: 70px;
+}
+strong {
+    font-style: italic;
+    font-size: larger;
+    background-color: rgb(100, 35, 35);
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.assassino {
+    background-color: rgba(88, 19, 19, 0.726);
+    color: rgb(79, 147, 187)
+}
+
+.facada {
+    background-color: rgb(85, 31, 43);
+    color: bisque;
+}
+
+.itens {
+    color: rgba(83, 105, 165, 0.548);
+    display: inline-block;
+    padding: 5%;
+    margin-right: 10%;
+
+}

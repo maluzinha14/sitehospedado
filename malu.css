@@ -48,9 +48,9 @@ body {
 }
 
 .itens {
-    color: rgba(83, 105, 165, 0.548);
+    color: rgba(133, 157, 223, 0.548);
     display: inline-block;
-    padding: 5%;
-    margin-right: 10%;
+    padding: 1%;
+    margin-right: 5%;
 
 }

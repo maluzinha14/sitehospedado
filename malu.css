@@ -22,7 +22,10 @@ p {
     color: rgb(255, 255, 255);
 }
 .imagem1 {
-    width: 150px;
+    width: 500px;
+}
+.imagemcentralizada{
+    text-align: center;
 }
 strong {
     font-style: italic;
